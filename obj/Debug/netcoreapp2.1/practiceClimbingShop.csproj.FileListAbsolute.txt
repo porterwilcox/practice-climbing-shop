@@ -1,0 +1,14 @@
+C:\source\codeworks\practiceClimbingShop\bin\Debug\netcoreapp2.1\practiceClimbingShop.deps.json
+C:\source\codeworks\practiceClimbingShop\bin\Debug\netcoreapp2.1\practiceClimbingShop.runtimeconfig.json
+C:\source\codeworks\practiceClimbingShop\bin\Debug\netcoreapp2.1\practiceClimbingShop.runtimeconfig.dev.json
+C:\source\codeworks\practiceClimbingShop\bin\Debug\netcoreapp2.1\practiceClimbingShop.dll
+C:\source\codeworks\practiceClimbingShop\bin\Debug\netcoreapp2.1\practiceClimbingShop.pdb
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.csprojAssemblyReference.cache
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.csproj.CoreCompileInputs.cache
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.RazorAssemblyInfo.cache
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.RazorAssemblyInfo.cs
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.AssemblyInfoInputs.cache
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.AssemblyInfo.cs
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.RazorTargetAssemblyInfo.cache
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.dll
+C:\source\codeworks\practiceClimbingShop\obj\Debug\netcoreapp2.1\practiceClimbingShop.pdb
